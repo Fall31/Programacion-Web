@@ -1,0 +1,17 @@
+{
+  "perfil": [
+    {
+      "id": "d6be9ecc-b13b-4791-97ec-ce003ceb8cae",
+      "nombre": "defef",
+      "email": "sadf"
+    }
+  ],
+  "productos":[
+    {
+      "id":"d6be9ecc-b13b-4791-97ec-ce003ceb8caa",
+      "name":"cuaderno",
+      "precio":"5 Bs",
+      "descripcion":"Carta, cuadriculado"
+    }
+  ]
+}
